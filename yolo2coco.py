@@ -17,7 +17,6 @@ def read_txt(txt_path):
     data = list(map(lambda x: x.rstrip('\n'), data))
     return data
 
-
 def mkdir(dir_path):
     Path(dir_path).mkdir(parents=True, exist_ok=True)
 
