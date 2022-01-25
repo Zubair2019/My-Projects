@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "cd": "^0.3.3",
+    "protractor": "^7.0.0"
+  }
+}
