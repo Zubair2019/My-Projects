@@ -1,9 +1,6 @@
 # import all required frameworks
 import unittest
 import time
-import string
-import csv
-import urllib
 
 from selenium.webdriver.common.touch_actions import TouchActions
 from selenium import webdriver
